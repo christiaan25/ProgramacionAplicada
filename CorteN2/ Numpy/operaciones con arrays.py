@@ -1,0 +1,10 @@
+import numpy as np
+arr = np.arange(4)
+print("Original:", arr)
+print("arr + 2:", 2 + arr)
+print("arr + arr:", arr + arr)
+print("arr - 10:", arr - 10)
+print("arr * 6:", arr * 6)
+print("arr * arr:", arr * arr)
+print("arr / 2:", arr / 2)
+print("arr / arr:", arr / arr)
